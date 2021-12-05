@@ -1,6 +1,6 @@
 # website-project-1
 
-Elle yazılmış ilk website örneğim.
+Tamamen elle yazılmış ilk website örneğim.
 
 https://emrahguvenkaya.glitch.me
 
