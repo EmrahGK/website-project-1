@@ -1,2 +1,3 @@
 # website-project-1
-website denemem
+
+Elle yazılmış ilk website öğrneğim.
