@@ -10,20 +10,39 @@ body{
 
 #list{
     list-style-type: none;
+    width: 80%;
+    margin: 0 auto;
+    border-style: none outset outset none;
+    border-radius: 10px;
+    margin-top: 25px;
     display: flex;
     height: auto;
     background-color: #333;
+    justify-content: center;
 }
 
 #list a{
     text-decoration: none;
+    font-family: Helvetica, Tahoma, sans-serif;
     display: inline-block;
-    padding: 10px 35px 20px 35px;
+    padding: 10px 0 20px 0;
     color: white;
     text-align: center;
     display: block;
     transition: 0.3s;
 }
+
+#logo-div li{
+    
+}
+
+.box{
+    width: 15%;
+}
+
+#logo-div{
+}
+
 
 #list a:hover{
     background-color: #111;
